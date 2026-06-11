@@ -231,19 +231,3 @@ B.Sc. (Honours) Data Science and Artificial Intelligence
 Indian Institute of Technology Guwahati
 
 Research Internship Project under the guidance of the SPIN Lab, IIT Guwahati.
-
-
-
-
-
-## PCA Visualization
-
-![PCA](results/pca_visualization.png)
-
-## t-SNE Visualization
-
-![TSNE](results/tsne_visualization.png)
-
-## Feature Importance
-
-![Importance](results/feature_importance.png)
