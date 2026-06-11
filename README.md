@@ -23,11 +23,11 @@ This project analyses statistical properties of natural images and applies handc
 
 ## PCA Visualization
 
-![PCA](results/pca_multiclass.png)
+![PCA](results/pca_visualization.png)
 
 ## t-SNE Visualization
 
-![TSNE](results/tsne_multiclass.png)
+![TSNE](results/tsne_visualization.png)
 
 ## Feature Importance
 
