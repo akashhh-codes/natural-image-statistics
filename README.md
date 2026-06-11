@@ -169,28 +169,30 @@ To address this, Phase 2 introduced additional handcrafted descriptors.
 
 ![Correlation Heatmap](results/binary_correlation_heatmap.png)
 
-# Repository Structure
+## Repository Structure
 
+```text
 natural-image-statistics
 
 ├── notebooks
-│ ├── phase1_analysis.ipynb
-│ ├── phase2_binary_classification.ipynb
-│ └── phase2_multiclass_classification.ipynb
-│
+│   ├── phase1_analysis.ipynb
+│   ├── phase2_binary_classification.ipynb
+│   └── phase2_multiclass_classification.ipynb
+
 ├── reports
-│ ├── phase1_report.pdf
-│ └── phase2_report.pdf
-│
+│   ├── phase1_report.pdf
+│   └── phase2_report.pdf
+
 ├── results
-│ ├── pca_visualization.png
-│ ├── tsne_visualization.png
-│ ├── feature_importance.png
-│ ├── binary_correlation_heatmap.png
-│ └── multi_class_confusion_matrix_random_forest.png
-│
+│   ├── pca_visualization.png
+│   ├── tsne_visualization.png
+│   ├── feature_importance.png
+│   ├── binary_correlation_heatmap.png
+│   └── multi_class_confusion_matrix_random_forest.png
+
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
