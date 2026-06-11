@@ -1,5 +1,10 @@
 # Natural Image Statistics for Scene Classification
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-orange)
+![Research](https://img.shields.io/badge/Research-IITG-red)
+
 ## Overview
 
 This repository contains research work conducted at IIT Guwahati on the use of handcrafted statistical, texture, and colour descriptors for natural scene classification.
