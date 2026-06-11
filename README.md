@@ -18,3 +18,17 @@ This project analyses statistical properties of natural images and applies handc
 - NumPy
 - Scikit-learn
 - Google Colab
+
+
+
+## PCA Visualization
+
+![PCA](results/pca_multiclass.png)
+
+## t-SNE Visualization
+
+![TSNE](results/tsne_multiclass.png)
+
+## Feature Importance
+
+![Importance](results/feature_importance.png)
