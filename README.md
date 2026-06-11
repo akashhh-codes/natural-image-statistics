@@ -230,4 +230,4 @@ B.Sc. (Honours) Data Science and Artificial Intelligence
 
 Indian Institute of Technology Guwahati
 
-Research Internship Project under the guidance of the SPIN Lab, IIT Guwahati.
+Research Internship Project under the guidance of Prof. Neeraj Kumar Sharma at SPIN Lab, IIT Guwahati.
