@@ -112,7 +112,7 @@ To address this, Phase 2 introduced additional handcrafted descriptors.
 |--------|--------|--------|--------|
 | Phase 1 | Binary Classification | Logistic Regression | 100.0% |
 | Phase 1 | Multi-Class Classification | Logistic Regression | 52.5% |
-| Phase 2 | Binary Classification | Random Forest | 89.0% |
+| Phase 2 | Binary Classification | Random Forest | 89.7% |
 | Phase 2 | Multi-Class Classification | RBF-SVM | 64.7% |
 
 ---
@@ -123,9 +123,9 @@ To address this, Phase 2 introduced additional handcrafted descriptors.
 
 | Model | Accuracy (%) |
 |---------|---------|
-| Logistic Regression | 76.3 |
-| SVM (RBF) | 83.3 |
-| Random Forest | 89.0 |
+| Logistic Regression | 79.0 |
+| SVM (RBF) | 86.5 |
+| Random Forest | 89.7 |
 
 ## Multi-Class Classification
 
